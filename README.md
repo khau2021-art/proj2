@@ -1,4 +1,3 @@
-# proj2
 Project 2 - Real-Time Face Detection and Tracking (CPET-347)
 
 Full Pipeline: Capture → Detect → Track → Integrate
